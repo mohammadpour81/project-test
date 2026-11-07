@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">a</string>
+    <string name="title_activity_digikala">digikala</string>
+    <string name="title_activity_snapp">Snapp</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_settings_acticity">SettingsActicity</string>
+</resources>
